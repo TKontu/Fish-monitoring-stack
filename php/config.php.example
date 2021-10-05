@@ -1,0 +1,8 @@
+<?php
+$mailUsername   = 'Smtp email';                     // SMTP username
+$mailPassword   = 'email password';                                   // SMTP password
+
+$dbUsername   = 'database username';                                        // db username
+$dbPassword   = 'database password';                                   // db password
+
+?>

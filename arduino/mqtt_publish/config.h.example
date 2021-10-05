@@ -1,0 +1,5 @@
+const char* ssid = "ssid";
+const char* password =  "password";
+const char* mqttServer = "mqtt server ip";
+const char* mqttUser = "MQTT username";
+const char* mqttPassword = "MQTT password";

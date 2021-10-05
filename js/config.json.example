@@ -1,0 +1,17 @@
+{
+    "dbhost": "hostadress",
+    "dbuser": "username",
+    "dbpassword": "password",
+    "database": "databasename",
+
+    "dbuser2": "username",
+    "dbpassword2": "password",
+
+    "MQTTBroker_URL": "ipadress/url",
+    "MQTTclientId": "client_id",
+	"MQTTport": 1883,
+	"MQTTusername": "username",
+	"MQTTpassword": "password"
+
+
+}
