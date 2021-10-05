@@ -2,3 +2,4 @@ arduino/mqtt_publish/config.h
 arduino/mqtt_publish_changing/config.h
 config.json
 config.php
+node_modules/
