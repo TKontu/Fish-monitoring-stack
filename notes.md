@@ -21,9 +21,6 @@ To do:
 30. //
     
 
-
-
-
 Done/redundant:
 1. //Need to create protection against multiple occurences of same email. - Not needed
 3. //Need to create profile management page
